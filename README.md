@@ -4,4 +4,3 @@ tela1
 tela2
 ![alt text](https://ibb.co/k9NmLG)
 Descrição do Aplicativo Projeto com fins academicos em Android e Java. #androidstudio #estudos #xmlApiParser
-
