@@ -1,3 +1,7 @@
-Imagem do UML do projeto do APP na sua primeira versão do git: https://i.imgur.com/PVWXJny.png
-
+Imagens do app :
+tela1
+![alt text](https://ibb.co/fc1VfG)
+tela2
+![alt text](https://ibb.co/k9NmLG)
 Descrição do Aplicativo Projeto com fins academicos em Android e Java. #androidstudio #estudos #xmlApiParser
+
