@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="chooseBand" type="id" />
+    <item name="chooseMusic" type="id" />
+    <item name="spinnerEvent" type="id" />
+</resources>
